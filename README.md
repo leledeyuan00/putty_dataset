@@ -1,6 +1,7 @@
-# Putty Dataset
+# Dataset for robotic interior finishing process 
 
-This is putty applying robot used dataset.
+This dataset is used for research of robotized interior finishing.
+The dataset consists of labeled images taken from real interior finishing sites.
 
 ## Download
 
@@ -14,10 +15,10 @@ This is putty applying robot used dataset.
 
 ### Preview
 
-- polishing dataset
+- Sanding dataset
 
   ![51_1](https://user-images.githubusercontent.com/26294903/119115497-cd0d7900-ba59-11eb-9358-f14e80fc2415.png)
   
-- putty applying dataset
+- Putty applying dataset
 
   ![12](https://user-images.githubusercontent.com/26294903/119115367-aea77d80-ba59-11eb-8f9a-c10b37057ce8.png)
